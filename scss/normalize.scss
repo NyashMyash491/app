@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: none;
+        color: $colorSite;
+    }
+}
+
+p {
+    margin-bottom: 0;
+}
